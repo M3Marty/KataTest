@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author maxof
+ *
+ */
+module katatest {
+}
